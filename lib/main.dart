@@ -16,10 +16,10 @@ class MyApp extends StatelessWidget {
 
         ),
         appBar:AppBar(
-          leading: Icon(Icons.account_tree_rounded),
+          leading: Icon(Icons.view_headline_sharp),
           title: Text('anasayfa'),
           actions: [
-            Icon(Icons.add_to_drive),
+            Icon(Icons.airplanemode_on_sharp),
             Padding(
               padding: EdgeInsets.symmetric(horizontal: 16),
               child: Icon(Icons.search),
