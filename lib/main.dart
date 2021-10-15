@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         ),
         appBar:AppBar(
           leading: Icon(Icons.account_tree_rounded),
-          title: Text('homepage'),
+          title: Text('anasayfa'),
           actions: [
             Icon(Icons.add_to_drive),
             Padding(
